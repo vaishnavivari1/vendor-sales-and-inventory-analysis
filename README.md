@@ -5,7 +5,7 @@
 
 The final insights are also consumed in Power BI dashboards.
 
-## **Dataset Link: ** 
+## **Dataset Link:** 
     [Dataset Link](https://drive.google.com/drive/folders/1aQvnWkdD1wsQG9FUMwO4mQyPCVx5tg5w?usp=sharing)
 ## **Features**
 
@@ -117,7 +117,7 @@ Steps in analysis.ipynb:
    - Logs are saved inside /logs folder with timestamps
 
 ## **Power BI Dashboard**
-![Dashboard](dashboard/Screenshot%202025-11-23%20170544.png)
+![Dashboard](Dashboard/Screenshot%202025-11-23%20170544.png)
 The aggregated SQL Server data is visualized in Power BI to track:  
 - **Sales Trends** – monitor growth and seasonality  
 - **Top Vendors** – identify high-performing suppliers  
